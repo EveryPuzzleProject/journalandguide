@@ -16,7 +16,13 @@ Hancock Democrat of Greenfield, Indiana, began on December 4, 1924
 about eight weeks later and without the numbers. The Pittsburgh Courier's puzzles in the
 same type carry "(© by Western Newspaper Union.)"
 ([pittsburghcourier](https://github.com/EveryPuzzleProject/pittsburghcourier)), so the
-series is very likely that syndicate's. The grids themselves haven't been compared.
+series is probably that syndicate's, though no page yet proves it.
+
+Grids compared, 2026-11-19 (black-square patterns read by xword-ocr's grid finder): "THE
+FOUR ANGLES" is the same grid as the Democrat's No. 3 (4 of 169 squares read differently),
+and "STEPPING STONES" agrees with its No. 1 except in the upper half of the Democrat's
+faint scan (11 of 121). None of the Courier's Western Newspaper Union grids matches either,
+which settles nothing: the Courier's weeks are later than any Democrat page saved.
 
 ## What isn't known
 
